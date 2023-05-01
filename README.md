@@ -8,7 +8,7 @@
 - Highly analytical and process-oriented data engineer having in-depth knowledge of modern data engineering techniques and data analysis methods. Proven   knowledge in data warehousing, databases, data quality, and data cleaning techniques.
 -  Hands-on with the latest cloud technologies and Big Data platforms
 - I've completed more than 15 certifications related to big data and Web.
-- I love to share my experiences and knowledge with others and I found the best way of it 
+- I love to share my experiences and knowledge with others
 - 🌱 Currently contributing on **Open Source Community**
 - 💬 Ask me about **Data and ML**
 - 📫 How to reach me **abdulsammadkhan1090@gmail.com**
