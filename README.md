@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on building best **Data Platform**.I've enticing experience with data-related technologies.
+- 🔭 I’m currently working on building best **Data Platform**.
 - Highly analytical and process-oriented data engineer having in-depth knowledge of modern data engineering techniques and data analysis methods. Proven   knowledge in data warehousing, databases, data quality, and data cleaning techniques.
 -  Hands-on with the latest cloud technologies and Big Data platforms
 - I've completed more than 15 certifications related to big data and Web.
