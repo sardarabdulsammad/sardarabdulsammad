@@ -20,8 +20,8 @@
 </p>
 
 ## 📌 GitHub Stats
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sardarabdulsammad&&theme=xcode)](https://github.com/sardarabdulsammad)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardarabdulsammad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abdulsammad" /></p>
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sardarabdulsammad&&theme=xcode)](https://github.com/sardarabdulsammad)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardarabdulsammad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abdulsammad" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardarabdulsammad&show_icons=true&locale=en&theme=tokyonight" alt="Abdulsammad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardarabdulsammad&&theme=tokyonight" alt="sardarabdulsammad" /></p>
